@@ -1,7 +1,7 @@
-// Copyright (c) 2020 Mr. Coxall All rights reserved
+// Copyright (c) 2022 Brennan Lee All rights reserved
 //
-// Created by: Mr. Coxall
-// Created on: Sep 2020
+// Created by: Brennan Lee
+// Created on: Sep 2022
 // This file contains the JS functions for index.html
 
 "use strict"
@@ -10,8 +10,8 @@
  * Check servie worker.
  */
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/ICS2O-PWA-Test/sw.js", {
-    scope: "/ICS2O-PWA-Test/",
+  navigator.serviceWorker.register("/6-01-pwa-2-05", {
+    scope: "/6-01-pwa-2-05/",
   })
 }
 
