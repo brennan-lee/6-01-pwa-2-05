@@ -6,7 +6,7 @@
   "start_url": "/6-01-pwa-2-05/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
-  "display": "standalone", 
+  "display": "standalone",
   "icons": [
     {
       "src": "./android-chrome-192x192.png",
